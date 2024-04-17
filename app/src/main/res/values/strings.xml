@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">2Cinema</string>
+    <string name="app_description">
+        Explora un amplio catálogo de películas,busca por título, género o director y añade tus
+        favoritas a tu lista personalizada. Obtén información detallada sobre cada película,
+        incluyendo sinopsis, reparto y tráilers.
+    </string>
+    <string name="welcome_text">Bienvenido a 2Cinema</string>
+
+</resources>
